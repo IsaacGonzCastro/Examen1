@@ -40,6 +40,9 @@ package com.toy.anagrams.lib;
 final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
+       
+        
+        //hola mundo
         "abstraction",
         "ambiguous",
         "arithmetic",
