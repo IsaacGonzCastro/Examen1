@@ -40,7 +40,7 @@ package com.toy.anagrams.lib;
 final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
-       
+       //adios mundo
         //esto es el segundo commit para el examen
         //hola mundo
         "abstraction",
